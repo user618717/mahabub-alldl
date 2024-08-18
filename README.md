@@ -16,3 +16,42 @@
 ```bash
 > npm i imran-dlmedia
 ```
+
+
+## Usage All Media Down
+```bash
+support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee, threads
+note: Let me know if any of the platforms you use are missing
+```
+```js
+const { imrandownloader } = require('imran-dlmedia');
+
+const url = 'link'; //past video link
+
+imrandownloader(url)
+  .then(data => {
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error:', error.message);
+  });
+```
+## Output Example (alldown)
+```
+{
+    "developer": "MOHAMMAD IMRAN",
+    "devfb": "https://www.facebook.com/profile.php?id=100075122837809",
+    "devwp": "wa.me/+8801689903267",
+    "status": true,
+    "media": {
+        "title": "video title",
+        "low": "normal video link",
+        "high": "hd video link"
+    }
+}
+```
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801689903267)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Imran.Ahmed099)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100075122837809)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MR-IMRAN-60)
