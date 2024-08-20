@@ -24,11 +24,11 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const { imrandownloader } = require('imran-dlmedia');
+const { alldl } = require('imran-dlmedia');
 
 const url = 'link'; //past video link
 
-imrandownloader(url)
+alldl(url)
   .then(data => {
     console.log(data);
   })
