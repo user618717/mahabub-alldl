@@ -14,7 +14,7 @@
 
 ## Instalation :
 ```bash
-> npm i imran-dlmedia
+> npm i imran-alldl
 ```
 
 
@@ -24,7 +24,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const { alldl } = require('imran-dlmedia');
+const { alldl } = require('imran-alldl');
 
 const url = 'link'; //past video link
 
