@@ -29,7 +29,7 @@ function createRequest(endpoint, formatData) {
           developer: 'MAHABUB RAHMAN',
           devfb: "https://www.facebook.com/www.xnxx.com.140",
           devwp: "wa.me/+8801988686406",
-          status: false,
+          status: true,
           msg: `${capitalize(endpoint.replace(/^\w/, c => c.toUpperCase()))} API error`,
         });
       }
