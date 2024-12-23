@@ -1,6 +1,6 @@
 {
-  "name": "imran-alldl",
-  "version": "0.0.3",
+  "name": "mahabub-alldl",
+  "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
@@ -37,9 +37,9 @@
     "capcut",
     "likee",
     "threads",
-    "imran"
+    "mahabub"
   ],
-  "author": "Imran",
+  "author": "Mahabub",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MR-IMRAN-60/imran-downloadmedia/issues"
@@ -47,7 +47,7 @@
   "homepage": "https://github.com/MR-IMRAN-60/imran-downloadmedia#readme",
 
   "dependencies": {
-    "axios": "^1.4.0",
-    "nayan-videos-downloader": "^0.0.9"
+    "axios": "^1.7.9",
+    "nayan-videos-downloader": "^0.1.3"
   }
 }
