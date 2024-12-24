@@ -28,7 +28,7 @@ function createRequest(endpoint, formatData) {
         resolve({
           developer: 'MAHABUB RAHMAN',
           devfb: "https://www.facebook.com/www.xnxx.com.140",
-          devwp: "wa.me/+8801988686406",
+          devwp: "wa.me/+8801613356376",
           status: true,
           msg: `${capitalize(endpoint.replace(/^\w/, c => c.toUpperCase()))} API error`,
         });
