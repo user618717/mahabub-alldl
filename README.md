@@ -9,12 +9,12 @@
 
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/mahabub-alldl.svg?style=flat-square"></a>
 <img alt="version" src="https://img.shields.io/github/package-json/v/user618717/mahabub-alldl?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/imran-dlmedia"><img src="https://img.shields.io/npm/dm/imran-dlmedia.svg?style=flat-square" alt="npm downloads"></a>
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/imran-dlmedia/badge)](https://www.jsdelivr.com/package/npm/imran-dlmedia)
+<a href="https://www.npmjs.com/package/mahabub-alldl"><img src="https://img.shields.io/npm/dm/mahabub-alldl.svg?style=flat-square" alt="npm downloads"></a>
+[![js dilvr](https://data.jsdelivr.com/v1/package/npm/mahabub-alldl/badge)](https://www.jsdelivr.com/package/npm/mahabub-alldl)
 
 ## Instalation :
 ```bash
-> npm i imran-alldl
+> npm i mahabub-alldl
 ```
 
 
@@ -24,7 +24,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const { alldl } = require('imran-alldl');
+const { alldl } = require('mahabub-alldl');
 
 const url = 'link'; //past video link
 
@@ -39,9 +39,9 @@ alldl(url)
 ## Output Example (alldown)
 ```
 {
-    "developer": "MOHAMMAD IMRAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100075122837809",
-    "devwp": "wa.me/+8801689903267",
+    "developer": "MAHABUB RAHMAN",
+    "devfb": " https://www.facebook.com/www.xnxx.com140",
+    "devwp": "wa.me/+8801613356376",
     "status": true,
     "media": {
         "title": "video title",
@@ -51,7 +51,7 @@ alldl(url)
 }
 ```
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801689903267)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Imran.Ahmed099)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100075122837809)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MR-IMRAN-60)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801613356376)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/www.xnxx.com.140)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/www.xnxx.com.140)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/user618717)
